@@ -30,5 +30,5 @@ public class AdminPage {
     public String getPersonalSurname() {
         return PersonalSurname;
     }
-
+    {}
 }
